@@ -6,7 +6,7 @@ public static class Constants
     public static string EmailAddress = @"15870362@qq.com";
     public static string ApplicationId = "XGENO.TubePlayer.App";
     public static string ApiServiceURL = @"https://youtube.googleapis.com/youtube/v3/";
-    public static string ApiKey = @"aabbccd";
+    public static string ApiKey = @"your google API here";
 
 
     public static uint MicroDuration { get; set; } = 100;
